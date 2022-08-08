@@ -122,3 +122,16 @@ function areaTriangulo(b, a) {
 }
 
 console.log( areaTriangulo(8, 4));
+
+prompt("hola soy juan");
+
+/////////
+
+//objeto
+
+const conejo = {
+    "nombre": "griselo",
+    "edad":27,
+    "color": "gris",
+    "peso":500,
+}
